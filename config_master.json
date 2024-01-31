@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "6920196888:AAGL6JoduG_WuglcL0z0iXFDKoYdHjbay5g",
+        "tg_server": "https://api.telegram.org",
+        "sub_chat_ids": [
+            -4177159072
+        ],
+        "admin_ids": [
+            6943817858
+        ],
+        "logs_chat": -4177159072
+    }
+}
